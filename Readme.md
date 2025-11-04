@@ -1,1 +1,1 @@
-Peoject for leanring Java and Spring boot
+Project for learning Java and Spring boot
